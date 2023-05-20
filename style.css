@@ -1,0 +1,96 @@
+.main {
+  height: 850px;
+  width: 100%;
+  /* border: 1px solid; */
+  display: flex table-row;
+}
+
+.part1 {
+  height: 700px;
+  width: 60%;
+  /* border: 1px solid red; */
+  display: inline-block;
+  margin-left: 489px;
+  position: absolute;
+  background-image: url(smallgirl.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 700px;
+}
+
+.part2 {
+  height: 500px;
+  width: 45%;
+  /* border: 1px solid; */
+  display: inline-block;
+  position: absolute;
+  margin: 80px 0 0 90px;
+  background-color: rgb(219, 217, 217);
+}
+
+.dt1 {
+  font-family: "Abril Fatface";
+  letter-spacing: 3px;
+  font-weight: 800;
+  font-size: 20px;
+  margin: 51px 0 0 35px;
+}
+
+.dd1 {
+  font-family: "Open Sans", sans-serif;
+  line-height: 20px;
+  margin: 20px 0 0 35px;
+}
+
+.dt2 {
+  font-family: "Abril Fatface";
+  letter-spacing: 3px;
+  font-weight: 800;
+  font-size: 20px;
+  margin: 51px 0 0 35px;
+}
+
+.dd2 {
+  font-family: "Open Sans", sans-serif;
+  line-height: 20px;
+  margin: 20px 0 0 35px;
+}
+
+.dt3 {
+  font-family: "Abril Fatface";
+  letter-spacing: 3px;
+  font-weight: 800;
+  font-size: 20px;
+  margin: 51px 0 0 35px;
+}
+
+.dd3 {
+  font-family: "Open Sans", sans-serif;
+  line-height: 20px;
+  margin: 20px 0 0 35px;
+}
+
+hr{margin-top: 16px;}
+
+.bottom {
+  height: 150px;
+  width: 98.7%;
+  /* border: 1px solid blue; */
+  position: absolute;
+  margin-top: 700px;
+}
+
+.bottom1{height: 50px;
+width: 500px;
+/* border: 1px solid  white; */
+margin: auto;
+margin: 70px 0 0 420px;
+color: white;}
+
+.bottom{background-color: #333333;}
+
+a{padding-top: 40px;
+color: cyan;
+font-family: "Open Sans", sans-serif;}
+
+a:hover{color: darkgrey;
+}
